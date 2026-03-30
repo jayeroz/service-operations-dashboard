@@ -2,6 +2,11 @@
 
 ![Service Operations Dashboard](dashboard.png)
 
+## Key Insights
+- 70% of requests met SLA, while 30% remain in progress, indicating moderate operational efficiency
+- Electrical issues represent the highest request volume, suggesting a potential bottleneck
+- Technician workload is evenly distributed, with no single technician overloaded
+
 ## Overview
 This project analyzes service request data to evaluate operational performance, SLA compliance, and technician workload.
 
