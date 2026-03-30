@@ -7,6 +7,9 @@
 - Electrical issues represent the highest request volume, suggesting a potential bottleneck
 - Technician workload is evenly distributed, with no single technician overloaded
 
+## Data Source
+This dataset was simulated to reflect real-world service operations scenarios, including technicians, service requests, and SLA tracking.
+
 ## Overview
 This project analyzes service request data to evaluate operational performance, SLA compliance, and technician workload.
 
