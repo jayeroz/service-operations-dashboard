@@ -1,6 +1,5 @@
 # Service Operations Dashboard
 
-## Dashboard Preview
 ![Service Operations Dashboard](dashboard.png)
 
 ## Overview
